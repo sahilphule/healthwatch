@@ -12,12 +12,12 @@ The system architecture can be divided into three key sections: Data Extraction,
 
 ### System Architecture Diagram
 ---
-![system architecture diagram](./images/architecture.png)
+![system architecture diagram](./uml-diagrams/architecture.png)
 
 ---
 
 ### Activity Flow Diagram
 ---
-![activity flow diagram](./images/activity.png)
+![activity flow diagram](./uml-diagrams/activity.png)
 
 ---
